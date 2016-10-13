@@ -1,0 +1,6 @@
+com/ironyard/halloween/data/Props.class
+com/ironyard/halloween/data/Costume.class
+com/ironyard/halloween/data/ClothingItems.class
+com/ironyard/halloween/controler/CostumeController.class
+com/ironyard/halloween/repositories/CostumeRepository.class
+Application.class

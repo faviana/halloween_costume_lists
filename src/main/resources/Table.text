@@ -1,0 +1,24 @@
+[
+  {
+    "cost": 25,
+    "category": "superhero",
+    "lastDateUsed": 1476383009514,
+    "count": 5,
+    "allProps": [
+      {
+        "id": 1,
+        "name": "Cape"
+      }
+    ],
+    "allClothingItems": [
+      {
+        "name": "superman boots",
+        "color": "red",
+        "size": "12",
+        "category": "shoe",
+        "id": 1
+      }
+    ],
+    "id": 1
+  }
+]
